@@ -1,0 +1,21 @@
+body{
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  color: red;
+  background-color: black;
+}
+
+h1{
+  font-size: 36px;
+  text-align: center;
+}
+
+p{
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+img{
+  max-width: 40%;
+  height: auto;
+}
